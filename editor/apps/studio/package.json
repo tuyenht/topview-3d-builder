@@ -16,7 +16,7 @@
   "dependencies": {
     "@topview/3d-builder": "workspace:*",
     "mediabunny": "^1.56.3",
-    "next": "15.1.9",
+    "next": "15.5.28",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "three": "^0.184.0"
